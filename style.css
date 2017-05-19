@@ -1,0 +1,93 @@
+body{
+	color:#fff;
+	align-content: center
+}
+
+h1{
+	font-size: 100px;
+}
+
+h2{
+	font-size: 80px;
+}
+
+h3{
+	font-size: 50px;
+}
+
+h4{
+	color: #000;
+	font-size: 40px;
+	text-align:center;
+}
+
+
+.nav{
+	background-color: #292b2c;
+}
+
+.banner{
+	padding-left: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #d9534f;
+	margin:0; 
+}
+
+.images{
+	margin: 0;
+}
+
+.banner2{
+	background-color: #292b2c;
+	padding-left: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.lists{
+	height:500px;
+	float: left;
+	margin: 30px;
+}
+
+.dogs{
+	background-color:#f7f7f7;
+	padding-left: 180px;
+	padding-right: 180px;
+	padding-top: 100px;
+}
+
+.dog{
+	float:left;
+	width: 350px;
+	height: auto;
+}
+.doge{
+	padding-top: 40px;
+	color: #000;
+	text-align: center;
+	clear: both;
+}
+
+
+.card{
+	color: #000;
+
+}
+
+.movie{
+	background-color: #000;
+	align-content: center;
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 150px;
+}
+
+.footer{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-color: #d9534f;
+	align-content: center;
+	text-align: center;
+}
